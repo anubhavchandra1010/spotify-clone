@@ -1,2 +1,2 @@
 # spotify-clone
-spotify website landing page 
+spotify website landing page.
